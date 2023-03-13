@@ -1,2 +1,3 @@
-add Readme `test`
+add Readme `test`  
+add config
 
